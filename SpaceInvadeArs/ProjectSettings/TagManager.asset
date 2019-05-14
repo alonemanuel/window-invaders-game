@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shot
+  - Wall
+  - Neighbor
+  - BottomPlayer
+  - TopPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Wall
+  - Shot
+  - Neighbor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 397667969
+    locked: 0
+  - name: Neighbor
+    uniqueID: 352295449
+    locked: 0
+  - name: Ball
+    uniqueID: 3271877189
+    locked: 0
+  - name: Players
+    uniqueID: 3722396539
+    locked: 0
